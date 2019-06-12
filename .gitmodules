@@ -1,0 +1,9 @@
+[submodule "IEvaluate-API"]
+	path = IEvaluate-API
+	url = https://github.com/integrated-evaluation-framework/IEvaluate-API.git
+[submodule "IEvaluate-Core"]
+	path = IEvaluate-Core
+	url = https://github.com/integrated-evaluation-framework/IEvaluate-Core.git
+[submodule "IEvaluate-REST"]
+	path = IEvaluate-REST
+	url = https://github.com/integrated-evaluation-framework/IEvaluate-REST.git
