@@ -17,7 +17,7 @@ project that contains all components of the framework. Clone this to build the w
 [IEvaluate-API](https://www.github.com/integrated-evaluation-framework/IEvaluate-API) - The API provides a relatively
 static point of access for extensions to the IEvaluate Framework, most notably through the use of Plugins to introduce
 new integrations and application types. It is recommended that all extension plugins interact as much as possible with
-classes from this API behaviour consistency is guaranteed 
+classes from this API as behaviour consistency is guaranteed 
 
 [IEvaluate-Core](https://www.github.com/integrated-evaluation-framework/IEvaluate-Core) - The Integrated Evaluation
 Framework's core functionality and several default implementations of the API
@@ -29,6 +29,6 @@ capabilities as a RESTful service
 service to provide a front-end to IEvaluate's capabilities
 
 [IEvaluate-ML]() - An IEvaluate Plugin that leverages Elasticsearch's innate ML capabilities to accelerate the debugging
-process, as well as utilizing anomaly detection to monitor application errors in a live environment
+process, as well as utilizing anomaly detection to monitor application errors in a live environment 
 
 [IEvaluate-ClinicalIE-Plugin]() - An example implementation of an IEvaluate plugin that supplies 
