@@ -29,6 +29,6 @@ capabilities as a RESTful service
 service to provide a front-end to IEvaluate's capabilities
 
 [IEvaluate-ML]() - An IEvaluate Plugin that leverages Elasticsearch's innate ML capabilities to accelerate the debugging
-process, as well as utilizing anomaly detection to monitor application errors in a live environment 
+process, as well as utilizing anomaly detection to monitor application errors in a live environment
 
 [IEvaluate-ClinicalIE-Plugin]() - An example implementation of an IEvaluate plugin that supplies 
