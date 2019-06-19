@@ -7,3 +7,7 @@
 [submodule "IEvaluate-REST"]
 	path = IEvaluate-REST
 	url = https://github.com/integrated-evaluation-framework/IEvaluate-REST.git
+[submodule "IEvaluate-ES-Plugin"]
+	path = IEvaluate-ES-Plugin
+	url = https://github.com/integrated-evaluation-framework/IEvaluate-ES-Plugin.git
+	branch = master

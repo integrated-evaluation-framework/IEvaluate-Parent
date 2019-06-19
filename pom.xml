@@ -26,5 +26,6 @@
         <module>IEvaluate-API</module>
         <module>IEvaluate-Core</module>
         <module>IEvaluate-REST</module>
+        <module>IEvaluate-ES-Plugin</module>
     </modules>
 </project>

@@ -28,7 +28,10 @@ capabilities as a RESTful service
 [IEvaluate-Web](https://www.github.com/integrated-evaluation-framework/IEvaluate-Web) - Interacts with the RESTful 
 service to provide a front-end to IEvaluate's capabilities
 
-[IEvaluate-ML]() - An IEvaluate Plugin that leverages Elasticsearch's innate ML capabilities to accelerate the debugging
-process, as well as utilizing anomaly detection to monitor application errors in a live environment 
+[IEvaluate-ES-Plugin](https://www.github.com/integrated-evaluation-framework/IEvaluate-ES-Plugin) - An IEvaluate Plugin 
+that integrates with an underlying Elasticsearch index for storage and search capabilities
+
+[IEvaluate-ML-Plugin]() - An IEvaluate Plugin that leverages Elasticsearch's innate ML capabilities to accelerate the 
+debugging process, as well as utilizing anomaly detection to monitor application errors in a live environment 
 
 [IEvaluate-ClinicalIE-Plugin]() - An example implementation of an IEvaluate plugin that supplies 
