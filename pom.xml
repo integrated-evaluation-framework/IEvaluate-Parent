@@ -27,5 +27,6 @@
         <module>IEvaluate-Core</module>
         <module>IEvaluate-REST</module>
         <module>IEvaluate-ES-Plugin</module>
+        <module>IEvaluate-ClinicalIE-Plugin</module>
     </modules>
 </project>

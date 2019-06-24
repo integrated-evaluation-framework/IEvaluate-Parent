@@ -11,3 +11,6 @@
 	path = IEvaluate-ES-Plugin
 	url = https://github.com/integrated-evaluation-framework/IEvaluate-ES-Plugin.git
 	branch = master
+[submodule "IEvaluate-ClinicalIE-Plugin"]
+	path = IEvaluate-ClinicalIE-Plugin
+	url = https://github.com/integrated-evaluation-framework/IEvaluate-ClinicalIE-Plugin.git

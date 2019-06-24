@@ -34,4 +34,4 @@ that integrates with an underlying Elasticsearch index for storage and search ca
 [IEvaluate-ML-Plugin]() - An IEvaluate Plugin that leverages Elasticsearch's innate ML capabilities to accelerate the 
 debugging process, as well as utilizing anomaly detection to monitor application errors in a live environment 
 
-[IEvaluate-ClinicalIE-Plugin]() - An example implementation of an IEvaluate plugin that supplies 
+[IEvaluate-ClinicalIE-Plugin](https://github.com/integrated-evaluation-framework/IEvaluate-ClinicalIE-Plugin) - An example implementation of an IEvaluate plugin for a Clinical Information Extraction and Phenotyping Application 
